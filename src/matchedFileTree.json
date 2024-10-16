@@ -1,0 +1,778 @@
+{
+  "components": {
+    "ActionBar": {
+      "0": {
+        "fileName": "ActionBar.tsx",
+        "path": "components/ActionBar/ActionBar.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "ActivityIndicator": {
+      "0": {
+        "fileName": "ActivityIndicator.tsx",
+        "path": "components/ActivityIndicator/ActivityIndicator.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "Banner": {
+      "0": {
+        "fileName": "Banner.tsx",
+        "path": "components/Banner/Banner.tsx",
+        "completed": false,
+        "groupId": 1
+      },
+      "tests": {
+        "0": {
+          "fileName": "Banner.test.tsx",
+          "path": "components/Banner/tests/Banner.test.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "BarcodeScanner": {
+      "0": {
+        "fileName": "ScannerOverlay.tsx",
+        "path": "components/BarcodeScanner/ScannerOverlay.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "Button": {
+      "CheckmarkButton": {
+        "0": {
+          "fileName": "CircleCheckmarkButton.tsx",
+          "path": "components/Button/CheckmarkButton/CircleCheckmarkButton.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "ControlledStepper": {
+      "0": {
+        "fileName": "ControlledStepper.tsx",
+        "path": "components/ControlledStepper/ControlledStepper.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "CustomerSection": {
+      "0": {
+        "fileName": "CustomerSection.tsx",
+        "path": "components/CustomerSection/CustomerSection.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "DevToolBar": {
+      "0": {
+        "fileName": "DevToolBar.tsx",
+        "path": "components/DevToolBar/DevToolBar.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "Dialog": {
+      "0": {
+        "fileName": "Dialog.tsx",
+        "path": "components/Dialog/Dialog.tsx",
+        "completed": false,
+        "groupId": 1
+      },
+      "tests": {
+        "0": {
+          "fileName": "Dialog.test.tsx",
+          "path": "components/Dialog/tests/Dialog.test.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "Divider": {
+      "0": {
+        "fileName": "Divider.tsx",
+        "path": "components/Divider/Divider.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "Filter": {
+      "0": {
+        "fileName": "Filter.tsx",
+        "path": "components/Filter/Filter.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "InfoBar": {
+      "components": {
+        "0": {
+          "fileName": "InfoBarItem.tsx",
+          "path": "components/InfoBar/components/InfoBarItem.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "ListSectionHeaderCell": {
+      "0": {
+        "fileName": "ListSectionHeaderCell.tsx",
+        "path": "components/ListSectionHeaderCell/ListSectionHeaderCell.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "NumericKeyboard": {
+      "0": {
+        "fileName": "NumericKeyboard.tsx",
+        "path": "components/NumericKeyboard/NumericKeyboard.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "Patterns": {
+      "Standard": {
+        "0": {
+          "fileName": "LayoutContainer.tsx",
+          "path": "components/Patterns/Standard/LayoutContainer.tsx",
+          "completed": false,
+          "groupId": 1
+        },
+        "1": {
+          "fileName": "SearchContainer.tsx",
+          "path": "components/Patterns/Standard/SearchContainer.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      },
+      "TwoPanelLayout": {
+        "0": {
+          "fileName": "TwoPanelLayout.tsx",
+          "path": "components/Patterns/TwoPanelLayout/TwoPanelLayout.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "Pill": {
+      "0": {
+        "fileName": "Pill.tsx",
+        "path": "components/Pill/Pill.tsx",
+        "completed": false,
+        "groupId": 1
+      },
+      "tests": {
+        "0": {
+          "fileName": "Pill.test.tsx",
+          "path": "components/Pill/tests/Pill.test.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "PinKeypadView": {
+      "components": {
+        "0": {
+          "fileName": "Header.tsx",
+          "path": "components/PinKeypadView/components/Header.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "SearchBar": {
+      "0": {
+        "fileName": "SearchBar.tsx",
+        "path": "components/SearchBar/SearchBar.tsx",
+        "completed": false,
+        "groupId": 1
+      },
+      "tests": {
+        "0": {
+          "fileName": "SearchBar.test.tsx",
+          "path": "components/SearchBar/tests/SearchBar.test.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "SegmentedControl": {
+      "0": {
+        "fileName": "SegmentedControl.tsx",
+        "path": "components/SegmentedControl/SegmentedControl.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "StatusBar": {
+      "0": {
+        "fileName": "StatusBar.tsx",
+        "path": "components/StatusBar/StatusBar.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "Stepper": {
+      "0": {
+        "fileName": "Stepper.tsx",
+        "path": "components/Stepper/Stepper.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "Tag": {
+      "0": {
+        "fileName": "Tag.tsx",
+        "path": "components/Tag/Tag.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    },
+    "Textfields": {
+      "0": {
+        "fileName": "Textfield.tsx",
+        "path": "components/Textfields/Textfield.tsx",
+        "completed": false,
+        "groupId": 1
+      },
+      "TextfieldNewImplementation": {
+        "0": {
+          "fileName": "CoreTextfield.tsx",
+          "path": "components/Textfields/TextfieldNewImplementation/CoreTextfield.tsx",
+          "completed": false,
+          "groupId": 1
+        },
+        "tests": {
+          "0": {
+            "fileName": "Textfield.test.tsx",
+            "path": "components/Textfields/TextfieldNewImplementation/tests/Textfield.test.tsx",
+            "completed": false,
+            "groupId": 1
+          }
+        }
+      },
+      "tests": {
+        "0": {
+          "fileName": "Textfield.test.tsx",
+          "path": "components/Textfields/tests/Textfield.test.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "TouchableRows": {
+      "components": {
+        "0": {
+          "fileName": "BaseInstructionRow.tsx",
+          "path": "components/TouchableRows/components/BaseInstructionRow.tsx",
+          "completed": false,
+          "groupId": 1
+        },
+        "1": {
+          "fileName": "Labels.tsx",
+          "path": "components/TouchableRows/components/Labels.tsx",
+          "completed": false,
+          "groupId": 1
+        }
+      }
+    },
+    "UserVerification": {
+      "0": {
+        "fileName": "UserVerification.tsx",
+        "path": "components/UserVerification/UserVerification.tsx",
+        "completed": false,
+        "groupId": 1
+      }
+    }
+  },
+  "datasource": {
+    "RNAppBridge": {
+      "components": {
+        "0": {
+          "fileName": "AppBridgeContainer.tsx",
+          "path": "datasource/RNAppBridge/components/AppBridgeContainer.tsx",
+          "completed": false,
+          "groupId": 11
+        },
+        "1": {
+          "fileName": "AppBridgeScannerScreen.tsx",
+          "path": "datasource/RNAppBridge/components/AppBridgeScannerScreen.tsx",
+          "completed": false,
+          "groupId": 11
+        }
+      }
+    }
+  },
+  "screens": {
+    "AppInitialization": {
+      "0": {
+        "fileName": "AppInitialization.tsx",
+        "path": "screens/AppInitialization/AppInitialization.tsx",
+        "completed": false,
+        "groupId": 10
+      }
+    },
+    "Cart": {
+      "components": {
+        "0": {
+          "fileName": "CartCombinedDiscountCell.tsx",
+          "path": "screens/Cart/components/CartCombinedDiscountCell.tsx",
+          "completed": false,
+          "groupId": 2
+        },
+        "2": {
+          "fileName": "CartDiscountCell.tsx",
+          "path": "screens/Cart/components/CartDiscountCell.tsx",
+          "completed": false,
+          "groupId": 2
+        },
+        "3": {
+          "fileName": "CartFeeCell.tsx",
+          "path": "screens/Cart/components/CartFeeCell.tsx",
+          "completed": false,
+          "groupId": 2
+        },
+        "4": {
+          "fileName": "CartShippingDiscountCell.tsx",
+          "path": "screens/Cart/components/CartShippingDiscountCell.tsx",
+          "completed": false,
+          "groupId": 2
+        },
+        "5": {
+          "fileName": "CheckoutDiscountAllocationsSummaryView.tsx",
+          "path": "screens/Cart/components/CheckoutDiscountAllocationsSummaryView.tsx",
+          "completed": false,
+          "groupId": 2
+        },
+        "6": {
+          "fileName": "CheckoutDiscountSummaryRow.tsx",
+          "path": "screens/Cart/components/CheckoutDiscountSummaryRow.tsx",
+          "completed": false,
+          "groupId": 2
+        },
+        "CartCustomer": {
+          "0": {
+            "fileName": "CartCustomerCell.tsx",
+            "path": "screens/Cart/components/CartCustomer/CartCustomerCell.tsx",
+            "completed": false,
+            "groupId": 2
+          }
+        },
+        "LineItems": {
+          "0": {
+            "fileName": "CartLineItemRow.tsx",
+            "path": "screens/Cart/components/LineItems/CartLineItemRow.tsx",
+            "completed": false,
+            "groupId": 2
+          },
+          "tests": {
+            "0": {
+              "fileName": "CartLineItemRow.test.tsx",
+              "path": "screens/Cart/components/LineItems/tests/CartLineItemRow.test.tsx",
+              "completed": false,
+              "groupId": 2
+            }
+          }
+        }
+      }
+    },
+    "SplitCart": {
+      "ManageItem": {
+        "components": {
+          "0": {
+            "fileName": "ManageItemStaffSection.tsx",
+            "path": "screens/SplitCart/ManageItem/components/ManageItemStaffSection.tsx",
+            "completed": false,
+            "groupId": 2
+          }
+        }
+      }
+    },
+    "DraftOrders": {
+      "DraftOrdersDetails": {
+        "components": {
+          "0": {
+            "fileName": "DraftOrderDetailsStaffSection.tsx",
+            "path": "screens/DraftOrders/DraftOrdersDetails/components/DraftOrderDetailsStaffSection.tsx",
+            "completed": false,
+            "groupId": 2
+          }
+        }
+      }
+    },
+    "Checkout": {
+      "CheckoutValidations": {
+        "components": {
+          "0": {
+            "fileName": "CustomerRow.tsx",
+            "path": "screens/Checkout/CheckoutValidations/components/CustomerRow.tsx",
+            "completed": false,
+            "groupId": 3
+          }
+        }
+      },
+      "ShopPayCheckouts": {
+        "components": {
+          "0": {
+            "fileName": "ShopPayCheckoutRow.tsx",
+            "path": "screens/Checkout/ShopPayCheckouts/components/ShopPayCheckoutRow.tsx",
+            "completed": false,
+            "groupId": 3
+          }
+        }
+      },
+      "TransactionSignature": {
+        "components": {
+          "0": {
+            "fileName": "TransactionSignatureView.tsx",
+            "path": "screens/Checkout/TransactionSignature/components/TransactionSignatureView.tsx",
+            "completed": false,
+            "groupId": 3
+          }
+        }
+      },
+      "components": {
+        "0": {
+          "fileName": "CompletePaymentFlow.tsx",
+          "path": "screens/Checkout/components/CompletePaymentFlow.tsx",
+          "completed": false,
+          "groupId": 3
+        }
+      }
+    },
+    "Customers": {
+      "components": {
+        "CustomerManageTags": {
+          "0": {
+            "fileName": "CustomerSearchTagsList.tsx",
+            "path": "screens/Customers/components/CustomerManageTags/CustomerSearchTagsList.tsx",
+            "completed": false,
+            "groupId": 4
+          }
+        },
+        "CustomersList": {
+          "0": {
+            "fileName": "CustomersListContainer.tsx",
+            "path": "screens/Customers/components/CustomersList/CustomersListContainer.tsx",
+            "completed": false,
+            "groupId": 4
+          }
+        }
+      }
+    },
+    "Exchanges": {
+      "ExchangeSummary": {
+        "components": {
+          "0": {
+            "fileName": "LineItemsListRow.tsx",
+            "path": "screens/Exchanges/ExchangeSummary/components/LineItemsListRow.tsx",
+            "completed": false,
+            "groupId": 5
+          }
+        }
+      },
+      "components": {
+        "WarningModal": {
+          "tests": {
+            "0": {
+              "fileName": "WarningModalContainer.test.tsx",
+              "path": "screens/Exchanges/components/WarningModal/tests/WarningModalContainer.test.tsx",
+              "completed": false,
+              "groupId": 5
+            }
+          }
+        }
+      }
+    },
+    "Hardware": {
+      "CustomerView": {
+        "0": {
+          "fileName": "PosGoDockedLogoutScreen.tsx",
+          "path": "screens/Hardware/CustomerView/PosGoDockedLogoutScreen.tsx",
+          "completed": false,
+          "groupId": 6
+        }
+      },
+      "Reader": {
+        "Pairing": {
+          "0": {
+            "fileName": "ReaderPairingInstruction.tsx",
+            "path": "screens/Hardware/Reader/Pairing/ReaderPairingInstruction.tsx",
+            "completed": false,
+            "groupId": 6
+          },
+          "ScannableCardReaderPairing": {
+            "Components": {
+              "0": {
+                "fileName": "ReaderConnected.tsx",
+                "path": "screens/Hardware/Reader/Pairing/ScannableCardReaderPairing/Components/ReaderConnected.tsx",
+                "completed": false,
+                "groupId": 6
+              },
+              "1": {
+                "fileName": "ReaderConnecting.tsx",
+                "path": "screens/Hardware/Reader/Pairing/ScannableCardReaderPairing/Components/ReaderConnecting.tsx",
+                "completed": false,
+                "groupId": 6
+              },
+              "2": {
+                "fileName": "ReaderPairingError.tsx",
+                "path": "screens/Hardware/Reader/Pairing/ScannableCardReaderPairing/Components/ReaderPairingError.tsx",
+                "completed": false,
+                "groupId": 6
+              },
+              "3": {
+                "fileName": "SingleReaderFound.tsx",
+                "path": "screens/Hardware/Reader/Pairing/ScannableCardReaderPairing/Components/SingleReaderFound.tsx",
+                "completed": false,
+                "groupId": 6
+              }
+            }
+          }
+        }
+      }
+    },
+    "Home": {
+      "SmartGridCustomization": {
+        "0": {
+          "fileName": "ChangeTileColour.tsx",
+          "path": "screens/Home/SmartGridCustomization/ChangeTileColour.tsx",
+          "completed": false,
+          "groupId": 7
+        }
+      },
+      "components": {
+        "SmartGrid": {
+          "0": {
+            "fileName": "AddTile.tsx",
+            "path": "screens/Home/components/SmartGrid/AddTile.tsx",
+            "completed": false,
+            "groupId": 7
+          },
+          "tests": {
+            "0": {
+              "fileName": "AddTile.test.tsx",
+              "path": "screens/Home/components/SmartGrid/tests/AddTile.test.tsx",
+              "completed": false,
+              "groupId": 7
+            }
+          }
+        }
+      }
+    },
+    "Locations": {
+      "components": {
+        "0": {
+          "fileName": "LocationCell.tsx",
+          "path": "screens/Locations/components/LocationCell.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      },
+      "tests": {
+        "0": {
+          "fileName": "LocationSelection.test.tsx",
+          "path": "screens/Locations/tests/LocationSelection.test.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      }
+    },
+    "Login": {
+      "Identity": {
+        "0": {
+          "fileName": "IdentityDeviceSignInScreen.tsx",
+          "path": "screens/Login/Identity/IdentityDeviceSignInScreen.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      }
+    },
+    "Metafields": {
+      "0": {
+        "fileName": "MetafieldsList.tsx",
+        "path": "screens/Metafields/MetafieldsList.tsx",
+        "completed": false,
+        "groupId": 9
+      },
+      "components": {
+        "0": {
+          "fileName": "ImageMetafieldScreen.tsx",
+          "path": "screens/Metafields/components/ImageMetafieldScreen.tsx",
+          "completed": false,
+          "groupId": 9
+        }
+      },
+      "tests": {
+        "0": {
+          "fileName": "CustomerMetafieldsList.test.tsx",
+          "path": "screens/Metafields/tests/CustomerMetafieldsList.test.tsx",
+          "completed": false,
+          "groupId": 9
+        },
+        "1": {
+          "fileName": "ProductMetafieldsList.test.tsx",
+          "path": "screens/Metafields/tests/ProductMetafieldsList.test.tsx",
+          "completed": false,
+          "groupId": 9
+        }
+      }
+    },
+    "More": {
+      "0": {
+        "fileName": "MoreScreen.tsx",
+        "path": "screens/More/MoreScreen.tsx",
+        "completed": false,
+        "groupId": 10
+      }
+    },
+    "Orders": {
+      "OrderList": {
+        "components": {
+          "0": {
+            "fileName": "OrderDateCell.tsx",
+            "path": "screens/Orders/OrderList/components/OrderDateCell.tsx",
+            "completed": false,
+            "groupId": 10
+          }
+        }
+      }
+    },
+    "Products": {
+      "ProductDetails": {
+        "components": {
+          "0": {
+            "fileName": "ProductDescriptionScreen.tsx",
+            "path": "screens/Products/ProductDetails/components/ProductDescriptionScreen.tsx",
+            "completed": false,
+            "groupId": 9
+          },
+          "1": {
+            "fileName": "ProductImagesCarousel.tsx",
+            "path": "screens/Products/ProductDetails/components/ProductImagesCarousel.tsx",
+            "completed": false,
+            "groupId": 9
+          },
+          "2": {
+            "fileName": "ThumbnailsList.tsx",
+            "path": "screens/Products/ProductDetails/components/ThumbnailsList.tsx",
+            "completed": false,
+            "groupId": 9
+          }
+        }
+      }
+    },
+    "QuickStartGuide": {
+      "Video": {
+        "0": {
+          "fileName": "VideoGuide.tsx",
+          "path": "screens/QuickStartGuide/Video/VideoGuide.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      }
+    },
+    "Register": {
+      "components": {
+        "0": {
+          "fileName": "TrackingSessionDateRow.tsx",
+          "path": "screens/Register/components/TrackingSessionDateRow.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      }
+    },
+    "Root": {
+      "0": {
+        "fileName": "AppInitializationScreen.tsx",
+        "path": "screens/Root/AppInitializationScreen.tsx",
+        "completed": false,
+        "groupId": 10
+      },
+      "1": {
+        "fileName": "MainRoot.tsx",
+        "path": "screens/Root/MainRoot.tsx",
+        "completed": false,
+        "groupId": 10
+      },
+      "components": {
+        "0": {
+          "fileName": "RootError.tsx",
+          "path": "screens/Root/components/RootError.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      }
+    },
+    "SalesLineAttribution": {
+      "LineItemStaffRow": {
+        "0": {
+          "fileName": "LineItemStaffRow.tsx",
+          "path": "screens/SalesLineAttribution/LineItemStaffRow/LineItemStaffRow.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      },
+      "components": {
+        "0": {
+          "fileName": "SalesAttributionRow.tsx",
+          "path": "screens/SalesLineAttribution/components/SalesAttributionRow.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      }
+    },
+    "Search": {
+      "components": {
+        "0": {
+          "fileName": "CustomerSearchResults.tsx",
+          "path": "screens/Search/components/CustomerSearchResults.tsx",
+          "completed": false,
+          "groupId": 7
+        },
+        "1": {
+          "fileName": "SearchResults.tsx",
+          "path": "screens/Search/components/SearchResults.tsx",
+          "completed": false,
+          "groupId": 7
+        }
+      }
+    },
+    "Settings": {
+      "CustomerDisplayMode": {
+        "0": {
+          "fileName": "CustomerDisplayMode.tsx",
+          "path": "screens/Settings/CustomerDisplayMode/CustomerDisplayMode.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      },
+      "components": {
+        "0": {
+          "fileName": "SettingsRow.tsx",
+          "path": "screens/Settings/components/SettingsRow.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      }
+    },
+    "Staff": {
+      "components": {
+        "0": {
+          "fileName": "StaffFilters.tsx",
+          "path": "screens/Staff/components/StaffFilters.tsx",
+          "completed": false,
+          "groupId": 10
+        },
+        "1": {
+          "fileName": "StaffHeader.tsx",
+          "path": "screens/Staff/components/StaffHeader.tsx",
+          "completed": false,
+          "groupId": 10
+        }
+      }
+    }
+  }
+}

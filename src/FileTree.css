@@ -1,0 +1,29 @@
+/* src/FileTree.css */
+.file-tree-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+}
+
+.file-tree-table th, .file-tree-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.file-tree-table th {
+    background-color: #f2f2f2;
+}
+
+.file-tree-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.file-tree-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.file-tree-table td {
+    vertical-align: middle;
+}
